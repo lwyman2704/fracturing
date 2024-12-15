@@ -1,8 +1,8 @@
 //********************************************************
 // fracturing.c
 // Author: Lorenzo Wyman
-// UCF ID: 5464079
-// Class: COP 3223, Professor Parra
+//
+// 
 // Date: 9/8/2024
 // Purpose: This program prints the requests of the user (area, distance, heigfht, width, perimeter) using the coordinates or points provided by the user. 
 // Input: User needs to input a set of coordinates or two points on the (X,Y) plane; Leaving a space or pressing 'enter' when entering a different number.
